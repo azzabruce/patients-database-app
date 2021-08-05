@@ -1,0 +1,37 @@
+[
+    {
+        "patientId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@example.com"
+    },
+    {
+        "patientId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@example.com"
+    },
+    {
+        "patientId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@example.com"
+    },
+    {
+        "patientId": 4,
+        "firstName": "david",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "david.neo@examplecom"
+    },
+    {
+        "patientId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@example.com"
+    }
+]
